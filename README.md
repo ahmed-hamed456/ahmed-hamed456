@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently studying on **FCI TU**
 
-- 🌱 I’m currently Working on **Talabat Api**
+- 🌱 I’m currently Working on **Meally Api**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmed-hamed456](https://github.com/ahmed-hamed456)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-hamed-49856423a/](https://www.linkedin.com/in/ahmed-hamed-49856423a/)
-- Ask me about **C#,OOP,Solid_Principles,Sql_Server,LiNQ,EntityFrameWork,MVC,WebApi**
+- Ask me about **C#,OOP,Solid_Principles,Sql_Server,LINQ,EntityFrameWork,MVC,WebApi,JWT**
 
 - 📫 How to reach me **ahmedhamed20042003@gmail.com**
 
