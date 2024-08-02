@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ahmed-hamed456](https://github.com/ahmed-hamed456)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-hamed-49856423a/](https://www.linkedin.com/in/ahmed-hamed-49856423a/)
-- Ask me about **C#,OOP,Solid_Principles,Sql_Server,LINQ,EntityFrameWork,MVC,WebApi,JWT**
+- Ask me about **C#,OOP,Solid_Principles,Sql_Server,LINQ,EntityFrameWork,MVC,WebApi,Repository Pattern With Unit Of Work , JWT , Signal_R ,MimeKit , MailKit**
 
 - 📫 How to reach me **ahmedd.moohmed@gmail.com**
 
