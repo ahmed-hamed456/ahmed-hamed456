@@ -41,6 +41,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-hamed456&show_icons=true&locale=en" alt="Ahmed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-hamed456&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Ahmed" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-hamed456&" alt="Ahmed" /></p>
