@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamed </h1>
-<h3 align="center">A Junior Backend Developer</h3>
+<h3 align="center">FullStack Developer (.Net + Angular)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-hamed456&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-hamed456" alt="ahmed-hamed" /></a> </p>
 
 
-- 🌱 I’m currently Working on **Shop_MVC**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ahmed-hamed456](https://github.com/ahmed-hamed456)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-hamed-49856423a/](https://www.linkedin.com/in/ahmed-hamed-49856423a/)
-- Ask me about **C#,OOP,Solid_Principles,Sql_Server,LINQ,EntityFrameWork,MVC,WebApi,Repository Pattern With Unit Of Work , JWT , Signal_R ,MimeKit , MailKit**
+- Ask me about **C#,OOP,Solid_Principles,Sql_Server,LINQ,EntityFrameWork,MVC,WebApi,Repository Pattern With Unit Of Work ,Clean Code, JWT , Signal_R ,MimeKit , MailKit,Angular**
 
 - 📫 How to reach me **ahmedd.moohmed@gmail.com**
 
